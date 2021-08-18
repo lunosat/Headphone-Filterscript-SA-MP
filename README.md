@@ -6,7 +6,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/AkirahX/Headphone-Filterscript-SA-MP-?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/AkirahX/Headphone-Filterscript-SA-MP-?style=for-the-badge)
 
-<img src="demonstration.png">
+<!--<img src="demonstration.png">-->
 
 > Um simples código que possibilita escutar música através de fones (VIRTUAIS) diretamente dentro do jogo.
 
